@@ -1,5 +1,5 @@
 # Hoseok-Seong</center>
-<p>안녕하세요. Java / Spring, C# / .NET 백엔드 개발자입니다.</p>
+<p>Java / Spring, C# / .NET 백엔드 개발자입니다.</p>
 
 # Stack
 <div>
