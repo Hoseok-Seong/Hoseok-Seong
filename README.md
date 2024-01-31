@@ -1,5 +1,5 @@
 # Hoseok-Seong</center>
-<p>Java / Spring, C# / .NET 백엔드 개발자입니다.</p>
+<p>[Java / Spring]<br/>[C# / .NET]<br/>Backend Software Engineer</p>
 
 # Stack
 <div>
