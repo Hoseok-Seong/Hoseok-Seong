@@ -1,5 +1,5 @@
 # Hoseok-Seong</center>
-<p>[Java / Spring]<br/>[C# / .NET]<br/>Backend Software Engineer</p>
+<p>[Java / Spring]<br/>[C# / ASP.NET]<br/>Backend Software Engineer</p>
 
 # Stack
 <div>
