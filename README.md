@@ -18,7 +18,3 @@
 
 # Blog
 [![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=tistory)](https://white-developer.tistory.com/)
-
----
-
-[![Hoseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoseok-Seong&show_icons=true&theme=nightowl)](https://github.com/Hoseok-Seong/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoseok-Seong&theme=nightowl&layout=compact)](https://github.com/Hoseok-Seong/github-readme-stats)
